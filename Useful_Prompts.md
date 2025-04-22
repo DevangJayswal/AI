@@ -1,0 +1,2 @@
+### Improve Any Text
+Prompt: Rewrite the text below to improve its readability. The text is geared at [audience description], and should be sufficiently readable for this audience. Where possible, use shorter synonyms of longer words, break up excessively long sentences into short ones, keep paragraphs brief, and use effective transitions. Preserve as much of the original tone and style as possible, and do not add any filler content. 
